@@ -1,5 +1,5 @@
 ALX HIGHER LEVEL PROGRAMMING LANGUAGES.
-These programming languages are more human understable. Let's take a deep dive and this journey and something as well grow together as Software Engineering
+These programming languages are more human-understandable. Let's take a deep dive on this journey as we learn together in Software Engineering.
 
 Python
 0x00. Python - Hello, World
@@ -19,5 +19,5 @@ Databases
 0x0D. SQL - Introduction
 0x0E. SQL - More queries
 JavaScript
-0x12. JavaScript - Warm up
-0x13. JavaScript - Objects, Scopes and Closures
+0x12. JavaScript - Warm-up
+0x13. JavaScript - Objects, Scopes, and Closures
