@@ -1,4 +1,4 @@
-ALX HIGHER LEVEL PROGRAMMING LANGUAGES
+ALX HIGHER LEVEL PROGRAMMING LANGUAGES.
 These programming languages are more human understable. Let's take a deep dive and this journey and something as well grow together as Software Engineering
 
 Python
